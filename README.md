@@ -1,7 +1,7 @@
 # Stock-Market-Data-Analysis
-Utilize VBA Scripting for annual stock market data review and analysis
+Use VBA Scripting for annual stock market data review and analysis
 
-Utilize a script that will loop through all the stocks for a given year and gather data to provide the following output in a summary table:
+Utilized a script that will loop through all the stocks for a given year and gather data to provide the following output in a summary table:
 
     - The ticker symbol.
     
