@@ -2,6 +2,7 @@
 Utilize VBA Scripting for annual stock market data review and analysis
 
 Utilize a script that will loop through all the stocks for a given year and gather data to provide the following output in a summary table:
+
     - The ticker symbol.
     
     - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
