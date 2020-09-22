@@ -11,6 +11,6 @@ Utilized a script that will loop through all the stocks for a given year and gat
     
     - The total stock volume of the stock.
     
-    - Positive changes are highlihted in green and negative change in red.
+    - Positive changes are highlihted in green and negative changes in red.
     
     - Identify stocks with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
